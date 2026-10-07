@@ -1,0 +1,22 @@
+Column,Missing Values,Percentage
+show_id,0,0.0
+type,0,0.0
+title,0,0.0
+director,0,0.0
+cast,0,0.0
+country,0,0.0
+date_added,88,1.0
+release_year,0,0.0
+rating,0,0.0
+duration,0,0.0
+listed_in,0,0.0
+description,0,0.0
+year_added,88,1.0
+month_added,88,1.0
+day_added,88,1.0
+duration_num,3,0.03
+duration_type,0,0.0
+primary_genre,0,0.0
+primary_country,0,0.0
+decade,0,0.0
+content_age,0,0.0
